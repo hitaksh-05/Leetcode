@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hitaksh-05/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hitaksh-05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hitaksh-05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/hitaksh-05/Leetcode/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hitaksh-05/Leetcode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/hitaksh-05/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitaksh-05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hitaksh-05/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hitaksh-05/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
